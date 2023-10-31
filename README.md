@@ -1,7 +1,10 @@
 # Tableau-Challenge
 
 Background
+
+
 ![Screenshot_20231030_080759](https://github.com/roro123323/Tableau-Challenge/assets/130724642/56ea8010-5aed-4c42-8491-13d42cce2319)
+
 
 
 
@@ -128,5 +131,3 @@ After saving, the visualization will be uploaded to your profile, which will aut
 ""
 
 If you would also like to save your workbook as a .twbx file, from your Tableau Public workbook page, click the “Download” button, which looks like a rectangle with an arrow in the center pointing down. Within the menu that pops up, choose “Tableau Workbook.”
-
-Requirements
